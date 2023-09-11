@@ -200,7 +200,7 @@ section{
     position: relative;
     top: 300px; 
     background-color: rgb(23, 21, 21);
-    height: 450px;
+    height: 100vh;
 }
 
 .form{
@@ -276,6 +276,13 @@ section{
     border: 2px solid gray;
     padding: 10px;
     border-radius: 4px;
+    margin-bottom: 50px;
+}
+
+.garis{
+    position: relative;
+    top: -100px;
+    left: 100px;
 }
 
 
